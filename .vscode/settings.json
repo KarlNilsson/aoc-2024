@@ -1,0 +1,9 @@
+{
+  "github.copilot.editor.enableCodeActions": false,
+  "github.copilot.enable": {
+    "*": false,
+    "typescript": false,
+  },
+  "files.insertFinalNewline": false,
+  "editor.formatOnSave": true
+}
